@@ -12,7 +12,7 @@ The relevant files are all named alph-infl-* or alph-verb-*
 
 http://alpheios.net/content/alpheios-firefox-plugins#codemap
 
-If you want an overview of the full functionality set available for the Alpheios inflection tables (which include matching morpheus output to a specific inflection ending, verb paradigm, etc.) take a look at the [Alpheios test plan document](tests/alpheiostestplanpdf). There are some very detailed tests on the inflection matching which should give you a sense of what is currently covered. You can also look at the public documentation available in the user guide on the alpheios.net site.
+If you want an overview of the full functionality set available for the Alpheios inflection tables (which include matching morpheus output to a specific inflection ending, verb paradigm, etc.) take a look at the [Alpheios test plan document](tests/alpheiostestplan.pdf). There are some very detailed tests on the inflection matching which should give you a sense of what is currently covered. You can also look at the public documentation available in the user guide on the alpheios.net site.
 
 The majority of the Alpheios Inflection display and quiz functionality is implemented via the XSLT transformations with Javascript driver code for the transformations (which includes setting of the input parameters to the XSLT transforms) and display.  The javascript driver code for the Greek is found in
 
